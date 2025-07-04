@@ -247,12 +247,3 @@ After this tutorial, you're ready to explore:
   * Stopwatch
 
 ---
-
-## Conclusion
-
-You’ve now learned the foundational concepts of JavaScript for web development — including how to write JS code, interact with the DOM, respond to events, and build simple interactive apps. Keep practicing, and soon you’ll be building full-featured websites!
-
----
-
-Would you like me to package this tutorial with files you can upload to your GitHub repo (`index.html`, `script.js`, etc.)?
-
